@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>fr.ujm.tse.lt2c.satin</groupId>
+  <artifactId>simhash</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140904.143453</timestamp>
+      <buildNumber>4</buildNumber>
+    </snapshot>
+    <lastUpdated>20140904143453</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20140904.143453-4</value>
+        <updated>20140904143453</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
